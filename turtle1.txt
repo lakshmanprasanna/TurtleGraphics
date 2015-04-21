@@ -1,0 +1,6 @@
+$a = 50
+repeat 5
+move $a
+repeat 10
+turn 70
+end
